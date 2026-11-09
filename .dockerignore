@@ -1,0 +1,4 @@
+# Credentials and local junk must stay out of the build context.
+.git
+.env*
+README*.md
